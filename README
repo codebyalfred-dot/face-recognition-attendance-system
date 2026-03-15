@@ -1,0 +1,17 @@
+# Face Recognition Attendance System
+
+Features:
+- Face registration
+- Face recognition attendance
+- Teacher dashboard
+- SQLite database
+
+Tech stack:
+- FastAPI
+- OpenCV
+- face_recognition
+- HTML / JavaScript
+
+Run server:
+
+uvicorn main:app --reload
